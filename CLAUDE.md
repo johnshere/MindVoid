@@ -7,7 +7,7 @@
 
 ## 架构文档
 
-详细技术架构设计见：[docs/01-architecture.md](docs/01-architecture.md)
+详细技术架构设计见：[docs/01-技术架构设计.md](docs/01-技术架构设计.md)
 
 涵盖：UI-App 层（Overlay UI·配置管理·交互流程）、核心层（输入适配·UI 适配·环形缓冲区·敏感过滤·句子分段·TargetPool）、模型层（N-Gram + 自研 NN·推理-训练一体）、跨平台方案、开发路线图。
 
