@@ -1,0 +1,5 @@
+# Reasonix AI agent workspace
+.reasonix/
+
+# PowerShell $null artifact
+$null;
